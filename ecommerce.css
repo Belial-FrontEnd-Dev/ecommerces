@@ -537,7 +537,7 @@ button a {
 }
 
 .firstgrid {
-  background-image: url("/ecommerce/images/first.png");
+  background-image: url("images/first.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
@@ -547,7 +547,7 @@ button a {
 }
 
 .secondgrid {
-  background-image: url("/ecommerce/images/secondimg.png");
+  background-image: url("images/secondimg.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
@@ -556,7 +556,7 @@ button a {
   transform: scale(1.1);
 }
 .thirdCol {
-  background-image: url("/ecommerce/images/third.png");
+  background-image: url("images/third.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
@@ -566,7 +566,7 @@ button a {
 }
 
 .fourthCol {
-  background-image: url("/ecommerce/images/fourth.png");
+  background-image: url("images/fourth.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
@@ -575,7 +575,7 @@ button a {
 }
 
 .fifthCol {
-  background-image: url("/ecommerce/images/Stacking1.png");
+  background-image: url("images/Stacking1.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
@@ -585,7 +585,7 @@ button a {
 }
 
 .sixthCol {
-  background-image: url("/ecommerce/images/sports.png");
+  background-image: url("images/sports.png");
   background-size: cover;
   transition: all 0.6s ease-in-out;
 }
